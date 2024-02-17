@@ -1,6 +1,6 @@
 # Chpater02-1
 # 파이썬 완전 기초
-# Print 사용법
+
 # 기본출력
 print('Python start!')
 print("Python start!")
