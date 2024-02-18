@@ -70,7 +70,6 @@ print('{:06.2f}' .format(3.14141414141414)) #6개 자리 중 정수는 1개여�
 # Chapter02-1-ex1(확장판)
 # 참조 : https://realpython.com/python-f-strings/
 # 파이썬 3가지 Print Formatting
-# 자주 나오는 질문 참고
 
 """
 참고 : Escape 코드
